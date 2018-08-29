@@ -1,0 +1,3 @@
+discord.py
+asyncio
+git+https://github.com/MysterialPy/TwitchIO.git
